@@ -7,6 +7,9 @@
     <title>PHP Ajax Dischi</title>
 </head>
 <body>
-    
+    <?php 
+        require __DIR__ . '/database/db.php';
+
+    ?>
 </body>
 </html>
